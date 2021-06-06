@@ -1,3 +1,12 @@
+#### Work Done by
+Abdullah Waseem, Muammad Gulraiz, Waleed Bin Tariq
+
+Computer Science Department, National University of Computer and Emerging Sciences
+Lahore, Pakistan
+
+l174254@lhr.nu.edu.pk, l174055@lhr.nu.edu.pk, l174146@lhr.nu.edu.pk
+
+
 # MovieRecommender
 MovieRecommender Android Project recommends user the movies and TV Shows on the basis of the user view history. This android project uses Firebase realtime database
 and Firebase storage to make store the user, video info and stream videos
